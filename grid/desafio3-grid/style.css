@@ -1,0 +1,7 @@
+
+.col-12, .col-8, .col-3 , .col-md-6, .col-md-8, offset-md-6{
+    background-color: red;
+    border: solid 1px wheat;
+    height: 100px;
+
+}
